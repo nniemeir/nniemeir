@@ -7,3 +7,9 @@
  |_|  |_/_/    \_\_____/   |_/_/    \_\  |______/_/    \_\  |_| /_/    \_\_____/   |_/_/    \_\
  
         </pre>
+<ul>Projects on this page will likely use:
+  <li>Bash</li>
+  <li>Powershell *Shudders*</li>
+  <li>Python</li>
+  <li>Web Development (HTML,CSS,Javascript)</li>
+</ul>
