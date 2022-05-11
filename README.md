@@ -9,7 +9,7 @@
         </pre>
 <ul>Projects on this page will primarily work with:
   <li>Bash</li>
-  <li>Basic Web Development (HTML,CSS,Javascript)</li>
+  <li>Web Design (HTML,CSS,Javascript)</li>
   <li>Powershell</li>
   <li>Python</li>
    </ul>
