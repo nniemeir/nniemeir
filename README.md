@@ -7,7 +7,7 @@
  |_|  |_/_/    \_\_____/   |_/_/    \_\  |______/_/    \_\  |_| /_/    \_\_____/   |_/_/    \_\
  
         </pre>
-<ul>Projects on this page will generally consist of:
+<ul>Projects on this page will primarily work with:
   <li>Bash</li>
   <li>Basic Web Development (HTML,CSS,Javascript)</li>
   <li>Powershell</li>
