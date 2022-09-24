@@ -1,7 +1,6 @@
-<ul>Projects on this page will primarily work with:
-  <li>Bash</li>
-  <li>Web Design (HTML,CSS,Javascript)</li>
-  <li>Powershell</li>
+Projects on this page will primarily work with:<ul>
+  <li>Bash/Powershell</li>
+  <li>Front-End Web Development</li>
   <li>Python</li>
    </ul>
    <br>
