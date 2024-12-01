@@ -1,2 +1,2 @@
-📖 [My Academic Blog](https://nniemeir.github.io/niemeir_computing/)
+📖 [My Academic Blog](https://nniemeir.github.io/niemeir-computing/) 
 
