@@ -28,10 +28,16 @@ Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
 * Shell
 * Z80 Assembly
 
+#### Networking Utilities
+* Burp Suite
+* netcat
+* nmap
+* Wireshark
+
 #### Operating Systems
 * Linux (Arch, Debian, Gentoo, RHEL)
 * Microsoft Windows
 
 #### System Programming
 * Linux System Calls
-* POSIX APIs (signals, file I/O, process control)
+* POSIX APIs (sockets, signals, file I/O, process control)
