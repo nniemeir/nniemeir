@@ -3,6 +3,8 @@ I am a 23 year old first year Computer Science student with an AAS in Cybersecur
 
 Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
 
+Check out my UNIX CDE inspired [personal website](https://nniemeir.github.io) 🌛
+
 ## :computer: Tech Stack 
 #### Build Systems/Toolchains 
 * Clang
