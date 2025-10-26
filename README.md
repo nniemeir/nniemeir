@@ -1,5 +1,5 @@
 ## 😃 About Me
-I am a 23 year old first year Computer Science student with an AAS in Cybersecurity who is interested in systems programming and reverse engineering.
+I am an entry-level IT technician and software engineer with a focus on systems programming and a deep curiosity for enterprise-level system administration and linux internals. 
 
 Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
 
