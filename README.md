@@ -1,9 +1,9 @@
 ## 😃 About Me
-I am an entry-level IT technician and software engineer with a focus on systems programming and a deep curiosity for enterprise-level system administration and linux internals. 
+Junior System Administrator and Systems Engineer with a background in cybersecurity and Unix-like operating systems.
 
 Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
 
-Check out my UNIX CDE inspired [personal website](https://nniemeir.github.io) 🌛
+Check out my [blog](https://nniemeir.github.io) 🌛
 
 ## :computer: Tech Stack 
 #### Build Systems/Toolchains 
@@ -21,14 +21,15 @@ Check out my UNIX CDE inspired [personal website](https://nniemeir.github.io) �
 * strace
 * Valgrind
 
-### Languages 
+### Languages & Frameworks 
+* Ansible
 * C
 * C++
+* Go
 * PowerShell
 * Python
 * Rust
 * Shell
-* Z80 Assembly
 
 #### Networking Utilities
 * Burp Suite
