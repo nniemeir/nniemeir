@@ -1,4 +1,4 @@
-## 😃 About Me
+## 🦇 About Me
 Junior System Administrator and Systems Engineer with a background in cybersecurity and Unix-like operating systems.
 
 Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
