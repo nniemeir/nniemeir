@@ -1,46 +1,35 @@
 ## 🦇 About Me
-Junior System Administrator and Systems Engineer with a background in cybersecurity and Unix-like operating systems.
+Self-taught systems programmer with an AAS in Cybersecurity. I choose projects that present the most practical utility and educational potential for the system administration work that I am aiming for long-term. 
 
-Currently reading: Robert Nystrom's *Crafting Interpreters* :book:
+Currently reading: Michael Kerrisk's *The Linux Programming Interface* :book:
 
-Check out my [blog](https://nniemeir.github.io) 🌛
+Check out my [blog](https://nniemeir.github.io) for project writeups and educational/opinion articles on my areas of interest 🌛
 
-## :computer: Tech Stack 
-#### Build Systems/Toolchains 
-* Clang
-* CMake/Make
-* GCC
-
-#### Containers & Virtualization
-* Docker
-* Oracle VirtualBox
-* QEMU/KVM 
-
-#### Debugging 
-* GDB
-* strace
-* Valgrind
-
+## :computer: Tech Stack
 ### Languages & Frameworks 
-* Ansible
-* C
-* C++
-* Go
-* PowerShell
-* Python
-* Rust
-* Shell
+- **C**
+- **C++**
+- **Rust**
+- **Go**
+- **Python**
+- **Shell** (POSIX sh/bash)
+- **PowerShell**
+- **Ansible**
 
-#### Networking Utilities
-* Burp Suite
-* netcat
-* nmap
-* Wireshark
+### Low-Level Development
+- Linux Kernel Modules    
+- Process & System Call Tracing  
+- POSIX APIs (sockets, signals, file I/O, processes)  
+- Linux System Calls  
+- Debugging: **GDB**, **Valgrind**, **strace**
 
-#### Operating Systems
-* Linux (Arch, Debian, Gentoo, RHEL)
-* Microsoft Windows
+#### Platforms & Virtualization
+- Linux (Arch, Debian, Gentoo, RHEL)
+- Microsoft Windows
+- QEMU/KVM, Oracle VirtualBox, Docker 
 
-#### System Programming
-* Linux System Calls
-* POSIX APIs (sockets, signals, file I/O, process control)
+#### Security & Networking
+- System Hardening
+- Domain Services (Active Directory / FreeIPA / Red Hat Identity Management)
+- Burp Suite
+- Wireshark, nmap, netcat
