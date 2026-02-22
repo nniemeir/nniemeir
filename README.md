@@ -23,12 +23,12 @@ Check out my [blog](https://nniemeir.github.io) for project writeups and educati
 - Linux System Calls  
 - Debugging: **GDB**, **Valgrind**, **strace**
 
-#### Platforms & Virtualization
+### Platforms & Virtualization
 - Linux (Arch, Debian, Gentoo, RHEL)
 - Microsoft Windows
 - QEMU/KVM, Oracle VirtualBox, Docker 
 
-#### Security & Networking
+### Security & Networking
 - System Hardening
 - Domain Services (Active Directory / FreeIPA / Red Hat Identity Management)
 - Burp Suite
